@@ -1,0 +1,34 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera,#webcam
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_name ,#result_name2  
+{
+  color: black;
+  
+}
+.name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+#start_tag{
+  border-radius: 20px;
+  letter-spacing: 7px;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
